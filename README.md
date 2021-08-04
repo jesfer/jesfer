@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+So, if you are looking at my profile I guess you want to know something about me...
+
+I'm a specialist in the areas of agile and devops. While the theories/practices are tool and platfrom agnostic I have spent considerable time with tools and platforms as well. Azure DevOps and GitHub are my favourites but far from the only ones. Occasionally I hold courses. Typically Scrum Master courses and Azure Boards classes. 
+
+Background... I have a M.Sc. in Computer Science, started my career as a fullstack developer on the .Net platform and progressed to project manager and product owner before ending up as an agile/devops specialist. While I can still read and understand code in many languages I really dont write code any more except a few powershell scripts from time to time. 
+
+If you want more info I'd suggest you look at my [LinkedIn profile](https://www.linkedin.com/in/jesperfernstrom) which should be fairly up to date. 
+
 <!--
 **jesfer/jesfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
